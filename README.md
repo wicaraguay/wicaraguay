@@ -47,13 +47,12 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 </p>
 
 ### 🛠️ About Me (Guidelines)
-
-*🔭 **Currently working on:** A restaurant management system (orders/kitchen) and a logistics app for Lojagas using Flutter.
-*🔭 **Independent Project:** Developing a custom website for an Orchestra Conductor currently performing in Russia.
-*👯 **Looking to collaborate on:** Automation projects for small businesses and startups.
-*🤝 **Looking for help with:** Software architecture best practices for my Master's degree.
-*🌱 **Currently learning:** English to expand my professional profile.
-*💬 **Ask me about:** Software development and how to integrate AI into development workflows.
+* 🔭 **Currently working on:** A restaurant management system (orders/kitchen) and a logistics app for Lojagas using Flutter.
+* 🔭 **Independent Project:** Developing a custom website for an Orchestra Conductor currently performing in Russia.
+* 👯 **Looking to collaborate on:** Automation projects for small businesses and startups.
+* 🤝 **Looking for help with:** Software architecture best practices for my Master's degree.
+* 🌱 **Currently learning:** English to expand my professional profile.
+* 💬 **Ask me about:** Software development and how to integrate AI into development workflows.
 
 </div>
 
