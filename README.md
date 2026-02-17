@@ -10,7 +10,7 @@
 
 <div id="spanish">
 
-# ¡Hola! Soy Wilson Caraguay 👋
+# ¡Hola! Soy Willan Caraguay 👋
 
 ### 🚀 Fullstack Developer | AI Enthusiast | Maestría en Ing. de Software
 
@@ -35,7 +35,7 @@ Desarrollador con más de un año de experiencia en **Python, Node, Flutter y Ex
 
 <div id="english">
 
-# Hi there! I'm Wilson Caraguay 👋
+# Hi there! I'm Willan Caraguay 👋
 
 ### 🚀 Fullstack Developer | AI Enthusiast | Software Engineering Master's Student
 
