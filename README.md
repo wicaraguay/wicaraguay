@@ -18,7 +18,16 @@ Desarrollador con más de un año de experiencia en **Python, Node, Flutter y Ex
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wicaraguay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=wicaraguay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 🛠️ Sobre Mí (Directrices)
@@ -43,7 +52,16 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 
 ### 📊 Language Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaraguay&layout=compact&theme=radical&langs_count=6" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaraguay&layout=compact&theme=radical&langs_count=6" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 🛠️ About Me (Guidelines)
@@ -62,7 +80,3 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 - **Ubicación:** Loja, Ecuador 🇪🇨
 - **LinkedIn:** [[Willan Caraguay](https://www.linkedin.com/in/willan-caraguay/)]
 - **GitHub:** [wicaraguay](https://github.com/wicaraguay)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
-</p>
