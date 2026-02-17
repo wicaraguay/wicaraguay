@@ -23,11 +23,11 @@ Desarrollador con más de un año de experiencia en **Python, Node, Flutter y Ex
 
 ### 🛠️ Sobre Mí (Directrices)
 * 🔭 **Actualmente trabajando en:** Un sistema de gestión para restaurantes (pedidos/cocina) y una app de logística para Lojagas con Flutter.
+* 🔭 **Proyecto Independiente en:** Actualmente estoy trabajando en un sitio Web a medida para un Director de Orquesta que dirije concierto en Rusia 
 * 👯 **Busco colaborar en:** Proyectos de automatización para pequeños negocios y emprendimientos.
 * 🤝 **Busco ayuda con:** Mejores prácticas en arquitectura de software para mi maestría.
 * 🌱 **Actualmente aprendiendo:** Inglés para expandir mi perfil profesional.
-* 💬 **Pregúntame sobre:** Desarrollo móvil con Dart/Flutter y cómo integrar IA en el flujo de trabajo.
-* ⚡ **Dato curioso:** Soy **Coach de CrossFit**; aplico la misma intensidad del entrenamiento al código.
+* 💬 **Pregúntame sobre:** Desarrollo y cómo integrar IA en el flujo de trabajo.
 
 </div>
 
@@ -47,12 +47,12 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 </p>
 
 ### 🛠️ About Me (Guidelines)
-* 🔭 **Currently working on:** A restaurant management system and a route logistics app for Lojagas using Flutter.
-* 👯 **Looking to collaborate on:** Automation projects for small businesses and local startups.
-* 🤝 **Looking for help with:** Advanced software architecture patterns for my Master's studies.
-* 🌱 **Currently learning:** Improving my English to reach a global professional level.
-* 💬 **Ask me about:** Mobile development with Dart/Flutter and AI-driven development workflows.
-* ⚡ **Fun fact:** I am a **CrossFit Coach**; I bring high-performance discipline from the box to the terminal.
+🔭 **Currently working on:** A restaurant management system (orders/kitchen) and a logistics app for Lojagas using Flutter.
+🔭 **Independent Project:** Developing a custom website for an Orchestra Conductor currently performing in Russia.
+👯 **Looking to collaborate on:** Automation projects for small businesses and startups.
+🤝 **Looking for help with:** Software architecture best practices for my Master's degree.
+🌱 **Currently learning:** English to expand my professional profile.
+💬 **Ask me about:** Software development and how to integrate AI into development workflows.
 
 </div>
 
@@ -60,5 +60,5 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 
 ### 📫 Conecta conmigo / Connect with me
 - **Ubicación:** Loja, Ecuador 🇪🇨
-- **LinkedIn:** [[Willan Caraguay](https://www.linkedin.com/in/willan-caraguay/)]
+- **LinkedIn:** [Willan Caraguay](https://www.linkedin.com/in/willan-caraguay/)
 - **GitHub:** [wicaraguay](https://github.com/wicaraguay)
