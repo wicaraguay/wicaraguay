@@ -18,16 +18,7 @@ Desarrollador con más de un año de experiencia en **Python, Node, Flutter y Ex
 
 ### 📊 Mis Estadísticas
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=wicaraguay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
 </p>
 
 ### 🛠️ Sobre Mí (Directrices)
@@ -50,18 +41,9 @@ Desarrollador con más de un año de experiencia en **Python, Node, Flutter y Ex
 
 Software developer with 1+ year of experience working with **Python, Node, Flutter, and Express**. I specialize in blending Frontend and Backend by leveraging **AI** (Claude/Gemini) to automate workflows and boost development speed.
 
-### 📊 Language Stats
+### 📊 My Stats
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaraguay&layout=compact&theme=radical&langs_count=6" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wicaraguay&theme=radical" />
 </p>
 
 ### 🛠️ About Me (Guidelines)
