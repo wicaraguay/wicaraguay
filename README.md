@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Wilson%20Caraguay&fontSize=70&animation=fadeIn" alt="Banner Wilson" />
+  <img src="https://avatars.githubusercontent.com/u/12161111?v=4" alt="Willan Caraguay" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Software developer with 1+ year of experience working with **Python, Node, Flutt
 
 ### 📫 Conecta conmigo / Connect with me
 - **Ubicación:** Loja, Ecuador 🇪🇨
-- **LinkedIn:** [Tu Enlace Aquí]
+- **LinkedIn:** [[Willan Caraguay](https://www.linkedin.com/in/willan-caraguay/)]
 - **GitHub:** [wicaraguay](https://github.com/wicaraguay)
 
 <p align="center">
